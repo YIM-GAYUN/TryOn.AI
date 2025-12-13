@@ -1,1 +1,0 @@
-# TryOn.AI
