@@ -1,0 +1,36 @@
+/* 반응형 디자인 추가 */
+@media (max-width: 768px) {
+  .app-layout {
+    padding: 10px;
+  }
+  
+  .logo-header {
+    position: relative;
+    top: auto;
+    left: auto;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .main-content-tab {
+    margin-left: 0;
+    margin-top: 0;
+  }
+  
+  .tab-header {
+    padding: 20px;
+  }
+  
+  .tab-header h2 {
+    font-size: 20px;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  .logo {
+    height: 80px;
+    width: 160px;
+  }
+}

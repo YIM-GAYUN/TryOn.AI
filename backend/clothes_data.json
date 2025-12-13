@@ -1,0 +1,366 @@
+{
+  "hoodie_1": {
+    "name": "후디 1",
+    "image_path": "static/clothes/top/Hoodie/1.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [166, 319],
+      "right_shoulder": [541, 332],
+      "left_hip": [247, 988],
+      "right_hip": [467, 995]
+    }
+  },
+  "hoodie_2": {
+    "name": "후디 2",
+    "image_path": "static/clothes/top/Hoodie/2.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [241, 424],
+      "right_shoulder": [472, 412],
+      "left_hip": [283, 880],
+      "right_hip": [422, 900]
+    }
+  },
+  "hoodie_3": {
+    "name": "후디 3",
+    "image_path": "static/clothes/top/Hoodie/3.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [192, 479],
+      "right_shoulder": [519, 485],
+      "left_hip": [270, 986],
+      "right_hip": [432, 992]
+    }
+  },
+  "hoodie_4": {
+    "name": "후디 4",
+    "image_path": "static/clothes/top/Hoodie/4.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [160, 300],
+      "right_shoulder": [520, 310],
+      "left_hip": [240, 950],
+      "right_hip": [450, 960]
+    }
+  },
+  "hoodie_5": {
+    "name": "후디 5",
+    "image_path": "static/clothes/top/Hoodie/5.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [170, 320],
+      "right_shoulder": [530, 330],
+      "left_hip": [250, 970],
+      "right_hip": [460, 980]
+    }
+  },
+  "blazer_1": {
+    "name": "블레이저 1",
+    "image_path": "static/clothes/top/Blazer/1.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [150, 280],
+      "right_shoulder": [500, 290],
+      "left_hip": [220, 900],
+      "right_hip": [430, 910]
+    }
+  },
+  "blazer_2": {
+    "name": "블레이저 2",
+    "image_path": "static/clothes/top/Blazer/2.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [160, 290],
+      "right_shoulder": [510, 300],
+      "left_hip": [230, 920],
+      "right_hip": [440, 930]
+    }
+  },
+  "jaket_1": {
+    "name": "재킷 1",
+    "image_path": "static/clothes/top/Jaket/1.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [155, 285],
+      "right_shoulder": [505, 295],
+      "left_hip": [225, 910],
+      "right_hip": [435, 920]
+    }
+  },
+  "jaket_2": {
+    "name": "재킷 2",
+    "image_path": "static/clothes/top/Jaket/2.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [165, 295],
+      "right_shoulder": [515, 305],
+      "left_hip": [235, 930],
+      "right_hip": [445, 940]
+    }
+  },
+  "kaos_1": {
+    "name": "티셔츠 1",
+    "image_path": "static/clothes/top/Kaos/1.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [140, 270],
+      "right_shoulder": [490, 280],
+      "left_hip": [210, 850],
+      "right_hip": [420, 860]
+    }
+  },
+  "kaos_2": {
+    "name": "티셔츠 2",
+    "image_path": "static/clothes/top/Kaos/2.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [145, 275],
+      "right_shoulder": [495, 285],
+      "left_hip": [215, 870],
+      "right_hip": [425, 880]
+    }
+  },
+  "kemeja_1": {
+    "name": "셔츠 1",
+    "image_path": "static/clothes/top/Kemeja/1.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [158, 288],
+      "right_shoulder": [508, 298],
+      "left_hip": [228, 918],
+      "right_hip": [438, 928]
+    }
+  },
+  "kemeja_2": {
+    "name": "셔츠 2",
+    "image_path": "static/clothes/top/Kemeja/2.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [162, 292],
+      "right_shoulder": [512, 302],
+      "left_hip": [232, 932],
+      "right_hip": [442, 942]
+    }
+  },
+  "polo_1": {
+    "name": "폴로 1",
+    "image_path": "static/clothes/top/Polo/1.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [148, 278],
+      "right_shoulder": [498, 288],
+      "left_hip": [218, 888],
+      "right_hip": [428, 898]
+    }
+  },
+  "polo_2": {
+    "name": "폴로 2",
+    "image_path": "static/clothes/top/Polo/2.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [152, 282],
+      "right_shoulder": [502, 292],
+      "left_hip": [222, 902],
+      "right_hip": [432, 912]
+    }
+  },
+  "sweter_1": {
+    "name": "스웨터 1",
+    "image_path": "static/clothes/top/Sweter/1.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [168, 298],
+      "right_shoulder": [518, 308],
+      "left_hip": [238, 948],
+      "right_hip": [448, 958]
+    }
+  },
+  "sweter_2": {
+    "name": "스웨터 2",
+    "image_path": "static/clothes/top/Sweter/2.png",
+    "category": "top",
+    "anchors": {
+      "left_shoulder": [172, 302],
+      "right_shoulder": [522, 312],
+      "left_hip": [242, 962],
+      "right_hip": [452, 972]
+    }
+  },
+  "panjang_1": {
+    "name": "긴 바지 1",
+    "image_path": "static/clothes/bottom/Celena_Panjang/1.png",
+    "category": "bottom",
+    "anchors": {
+      "left_hip": [130, 193],
+      "right_hip": [230, 186],
+      "left_ankle": [92, 590],
+      "right_ankle": [258, 582],
+      "right_knee": [253, 383]
+    }
+  },
+  "panjang_2": {
+    "name": "긴 바지 2",
+    "image_path": "static/clothes/bottom/Celena_Panjang/2.png",
+    "category": "bottom",
+    "anchors": {
+      "left_hip": [111, 189],
+      "right_hip": [230, 180],
+      "left_ankle": [100, 590],
+      "right_ankle": [280, 586]
+    }
+  },
+  "panjang_3": {
+    "name": "긴 바지 3",
+    "image_path": "static/clothes/bottom/Celena_Panjang/3.png",
+    "category": "bottom",
+    "anchors": {
+      "left_hip": [148, 194],
+      "right_hip": [248, 189],
+      "left_ankle": [96, 588],
+      "right_ankle": [285, 607]
+    }
+  },
+  "pendek_1": {
+    "name": "짧은 바지 1",
+    "image_path": "static/clothes/bottom/Celena_Pendek/1.png",
+    "category": "bottom",
+    "anchors": {
+      "left_hip": [125, 188],
+      "right_hip": [225, 181],
+      "left_knee": [110, 380],
+      "right_knee": [250, 390]
+    }
+  },
+  "pendek_2": {
+    "name": "짧은 바지 2",
+    "image_path": "static/clothes/bottom/Celena_Pendek/2.png",
+    "category": "bottom",
+    "anchors": {
+      "left_hip": [120, 185],
+      "right_hip": [220, 178],
+      "left_knee": [105, 375],
+      "right_knee": [245, 385]
+    }
+  },
+  "jeans_1": {
+    "name": "청바지 1",
+    "image_path": "static/clothes/bottom/Jeans/1.png",
+    "category": "bottom",
+    "anchors": {
+      "left_hip": [135, 198],
+      "right_hip": [235, 191],
+      "left_ankle": [98, 598],
+      "right_ankle": [268, 608]
+    }
+  },
+  "jeans_2": {
+    "name": "청바지 2",
+    "image_path": "static/clothes/bottom/Jeans/2.png",
+    "category": "bottom",
+    "anchors": {
+      "left_hip": [140, 203],
+      "right_hip": [240, 196],
+      "left_ankle": [103, 603],
+      "right_ankle": [273, 613]
+    }
+  },
+  "rok_1": {
+    "name": "치마 1",
+    "image_path": "static/clothes/bottom/Rok/1.png",
+    "category": "bottom",
+    "anchors": {
+      "left_hip": [115, 178],
+      "right_hip": [215, 171],
+      "left_knee": [125, 340],
+      "right_knee": [225, 350]
+    }
+  },
+  "rok_2": {
+    "name": "치마 2",
+    "image_path": "static/clothes/bottom/Rok/2.png",
+    "category": "bottom",
+    "anchors": {
+      "left_hip": [118, 181],
+      "right_hip": [218, 174],
+      "left_knee": [128, 343],
+      "right_knee": [228, 353]
+    }
+  },
+  "gaun_1": {
+    "name": "원피스 1",
+    "image_path": "static/clothes/dress/Gaun/1.png",
+    "category": "dress",
+    "anchors": {
+      "left_shoulder": [87, 76],
+      "right_shoulder": [303, 54],
+      "left_hip": [134, 443],
+      "right_hip": [229, 448]
+    }
+  },
+  "gaun_2": {
+    "name": "원피스 2",
+    "image_path": "static/clothes/dress/Gaun/2.png",
+    "category": "dress",
+    "anchors": {
+      "left_shoulder": [113, 88],
+      "right_shoulder": [241, 78],
+      "left_hip": [148, 358],
+      "right_hip": [210, 352]
+    }
+  },
+  "gaun_3": {
+    "name": "원피스 3",
+    "image_path": "static/clothes/dress/Gaun/3.png",
+    "category": "dress",
+    "anchors": {
+      "left_shoulder": [142, 200],
+      "right_shoulder": [228, 198],
+      "left_hip": [148, 410],
+      "right_hip": [221, 420]
+    }
+  },
+  "gaun_4": {
+    "name": "원피스 4",
+    "image_path": "static/clothes/dress/Gaun/4.png",
+    "category": "dress",
+    "anchors": {
+      "left_shoulder": [90, 80],
+      "right_shoulder": [310, 58],
+      "left_hip": [138, 448],
+      "right_hip": [233, 453]
+    }
+  },
+  "gaun_5": {
+    "name": "원피스 5",
+    "image_path": "static/clothes/dress/Gaun/5.png",
+    "category": "dress",
+    "anchors": {
+      "left_shoulder": [95, 82],
+      "right_shoulder": [315, 60],
+      "left_hip": [140, 450],
+      "right_hip": [235, 455]
+    }
+  },
+  "mantel_1": {
+    "name": "코트 1",
+    "image_path": "static/clothes/dress/Mantel/1.png",
+    "category": "dress",
+    "anchors": {
+      "left_shoulder": [100, 90],
+      "right_shoulder": [320, 68],
+      "left_hip": [145, 480],
+      "right_hip": [245, 485]
+    }
+  },
+  "mantel_2": {
+    "name": "코트 2",
+    "image_path": "static/clothes/dress/Mantel/2.png",
+    "category": "dress",
+    "anchors": {
+      "left_shoulder": [105, 95],
+      "right_shoulder": [325, 73],
+      "left_hip": [150, 490],
+      "right_hip": [250, 495]
+    }
+  }
+}
