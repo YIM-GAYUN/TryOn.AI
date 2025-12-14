@@ -1,0 +1,201 @@
+{
+    "hoodie_1": {
+        "name": "Hoodie 1",
+        "image_path": "/content/drive/MyDrive/컴비 팀플/data/옷/Hoodie/1.png",
+        "category": "top",
+        "anchors": {
+            "left_shoulder": [
+                166,
+                319
+            ],
+            "right_shoulder": [
+                541,
+                332
+            ],
+            "left_hip": [
+                247,
+                988
+            ],
+            "right_hip": [
+                467,
+                995
+            ]
+        }
+    },
+    "hoodie_2": {
+        "name": "Hoodie 2",
+        "image_path": "/content/drive/MyDrive/컴비 팀플/data/옷/Hoodie/2.png",
+        "category": "top",
+        "anchors": {
+            "left_shoulder": [
+                241,
+                424
+            ],
+            "right_shoulder": [
+                472,
+                412
+            ],
+            "left_hip": [
+                283,
+                880
+            ],
+            "right_hip": [
+                422,
+                900
+            ]
+        }
+    }, 
+    "sweter_4": {
+        "image_path": "/content/drive/MyDrive/컴비 팀플/data/옷/Sweter/4.png",
+        "category": "top",
+        "anchors": {
+        "left_shoulder": [170, 120],
+        "right_shoulder": [460, 90],
+        "left_hip": [250, 750],
+        "right_hip": [430, 750]
+        }
+    },
+    "panjang_1": {
+        "name": "pants 1",
+        "image_path": "/content/drive/MyDrive/컴비 팀플/data/옷/Celena_Panjang/1.png",
+        "category": "bottom",
+        "anchors": {
+            "left_hip": [
+                130,
+                193
+            ],
+            "right_hip": [
+                230,
+                186
+            ],
+            "left_knee": [
+                125,
+                390
+            ],
+            "right_knee": [
+                245,
+                385
+            ],
+            "left_ankle": [
+                92,
+                590
+            ],
+            "right_ankle": [
+                260,
+                601
+            ]
+        }
+    },
+    "panjang_2": {
+        "name": "pants 2",
+        "image_path": "/content/drive/MyDrive/컴비 팀플/data/옷/Celena_Panjang/2.png",
+        "category": "bottom",
+        "anchors": {
+            "left_hip": [
+                111,
+                189
+            ],
+            "right_hip": [
+                230,
+                180
+            ],
+            "left_knee": [
+                108,
+                395
+            ],
+            "right_knee": [
+                255,
+                390
+            ],
+            "left_ankle": [
+                100,
+                590
+            ],
+            "right_ankle": [
+                280,
+                586
+            ]
+        }
+    },
+    "panjang_5": {
+        "name": "긴 바지 5",
+        "image_path": "/content/drive/MyDrive/컴비 팀플/data/옷/Celena_Panjang/5.png",
+        "category": "bottom",
+        "anchors": {
+        "left_hip": [120, 130],
+        "right_hip": [230, 130],
+        "left_knee": [100, 390],
+        "right_knee": [240, 380],
+        "left_ankle": [90, 600],
+        "right_ankle": [260, 620]
+        }
+    },
+    "gaun_1": {
+        "name": "Gaun 1",
+        "image_path": "/content/drive/MyDrive/컴비 팀플/data/옷/Gaun/1.png",
+        "category": "dress",
+        "anchors": {
+            "left_shoulder": [
+                87,
+                76
+            ],
+            "right_shoulder": [
+                303,
+                54
+            ],
+            "left_hip": [
+                134,
+                443
+            ],
+            "right_hip": [
+                229,
+                448
+            ]
+        }
+    },
+    "gaun_2": {
+        "name": "Gaun 2",
+        "image_path": "/content/drive/MyDrive/컴비 팀플/data/옷/Gaun/2.png",
+        "category": "dress",
+        "anchors": {
+            "left_shoulder": [
+                113,
+                88
+            ],
+            "right_shoulder": [
+                241,
+                78
+            ],
+            "left_hip": [
+                148,
+                358
+            ],
+            "right_hip": [
+                210,
+                352
+            ]
+        }
+    },
+    "mantel_5": {
+      "image_path": "/content/drive/MyDrive/컴비 팀플/data/옷/Mantel/5.png",
+      "category": "dress",
+      "anchors": {
+        "left_shoulder": [180, 50],
+        "right_shoulder": [500, 45],
+        "left_hip": [245, 810],
+        "right_hip": [440, 800]
+      }
+    },
+    "mantel_9": {
+      "image_path": "/content/drive/MyDrive/컴비 팀플/data/옷/Mantel/9.png",
+      "category": "dress",
+      "anchors": {
+        "left_shoulder": [150, 60],
+        "right_shoulder": [500, 75],
+        "left_hip": [225, 690],
+        "right_hip": [420, 680]
+      }
+    }
+
+
+}

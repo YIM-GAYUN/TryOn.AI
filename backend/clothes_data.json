@@ -776,6 +776,8 @@
     "anchors": {
       "left_hip": [130, 193],
       "right_hip": [230, 186],
+      "left_knee": [125, 390],
+      "right_knee": [245, 385],   
       "left_ankle": [92, 590],
       "right_ankle": [260, 601]
     }
