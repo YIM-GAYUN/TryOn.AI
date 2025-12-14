@@ -10,6 +10,13 @@ cv_final.ipynb 파일을 기반으로 제작된 가상 피팅 웹 애플리케�
 3. Pose estimation을 통한 관절점 감지
 4. 옷 이미지 워핑을 통한 가상 피팅
 
+## 구현 화면
+
+
+https://github.com/user-attachments/assets/ce2da432-f78b-4460-b621-9e6a327ada1d
+
+
+
 ## 기술 스택
 - Computer Vision: Pose Detection + Image Warping
 - Backend: FastAPI + OpenCV + MediaPipe
