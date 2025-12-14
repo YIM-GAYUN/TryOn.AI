@@ -1,7 +1,8 @@
 # Virtual Try-On Web Application
 
-cv_final.ipynb 파일을 기반으로 제작된 가상 피팅 웹 애플리케이션입니다. \n
-전체적인 구조는 demo.ipynb와 데모 웹페이지 부분인 나머지 폴더 및 파일들로 구성되어 있습니다.
+cv_final.ipynb 파일을 기반으로 제작된 가상 피팅 웹 애플리케이션입니다. </br>
+전체적인 구조는 demo.ipynb와 데모 웹페이지 부분인 나머지 폴더 및 파일들로 구성되어 있습니다. </br>
+즉, colab 환경에서 실행 가능한 최종 코드는 demo.ipynb입니다.
 
 ## 기능
 1. 전신 사진 업로드
@@ -13,6 +14,7 @@ cv_final.ipynb 파일을 기반으로 제작된 가상 피팅 웹 애플리케�
 - Computer Vision: Pose Detection + Image Warping
 - Backend: FastAPI + OpenCV + MediaPipe
 - Frontend: React
+- 데이터의 경우 kaggle의 clothes dataset을 활용하였습니다: https://www.kaggle.com/datasets/ryanbadai/clothes-dataset/data
 
 ## 실행 방법
 
